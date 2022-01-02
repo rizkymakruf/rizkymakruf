@@ -4,7 +4,7 @@
 🔭 I’m freelance at home and looking work
 🌱 I’m currently learning designer web and designer graphic
 💬 Ask me about anything
-⚡ Look me at instagram @rizkymakruff</p>
+⚡ **Look me at instagram @rizkymakruff**</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=rizkymakruf alt=rizkymakruf /> </p>
 
