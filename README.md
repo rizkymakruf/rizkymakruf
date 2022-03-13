@@ -5,6 +5,7 @@
 <p>🌱 I’m currently learning designer web (front-end) and designer graphic</p>
 <p>💬 Ask me about anything</p>
 <p>⚡ Look me at instagram @rizkymakruff</p>
+<p🌍 Prototype https://furnitureshop.my.id/</p>
 
 ## Graphic Designer and WEB Developer
 <p align=left> <img src=https://komarev.com/ghpvc/?username=rizkymakruf alt=rizkymakruf /> </p>
