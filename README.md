@@ -4,7 +4,6 @@
 <p>🔭 I’m freelance at home and looking for work</p>
 <p>🌱 I’m currently learning designer web (front-end) and designer graphic</p>
 <p>💬 Ask me about anything</p>
-<p>⚡ Look me at instagram @rizkymakruff</p>
 <p>🌍 Prototype https://furnitureshop.my.id/</p>
 
 ## Graphic Designer and WEB Developer
