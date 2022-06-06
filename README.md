@@ -1,6 +1,6 @@
-## Hey There👋, This is Rizki Makruf 😎
-[![Gmail Badge](https://img.shields.io/badge/-armppy8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:armppy8@gmail.com)](mailto:armppy8@gmail.com) [![Github Badge](https://img.shields.io/badge/-rizkymakruf-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rizkymakruf/)](https://www.github.com/rizkymakruf/) [![Instagram Badge](https://img.shields.io/badge/-rizkyruff-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rizkyruff/)](https://www.instagram.com/rizkyruff/) <p align='left'>Hello evryone👋. I'am Rizky Makruf 😁 I'm graduate of University of Technology Yogyakarta, Current university student enrolled in Informatics Engineering ✌ I am a graphic designer and Front End Developer, and ready to full stack developer. 😎 I live in Bali temporary. 🚩
-</p>
+## Hey There👋, This is Rizky Makruf 😎
+[![Gmail Badge](https://img.shields.io/badge/-armppy8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:armppy8@gmail.com)](mailto:armppy8@gmail.com) [![Github Badge](https://img.shields.io/badge/-rizkymakruf-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rizkymakruf/)](https://www.github.com/rizkymakruf/) [![Instagram Badge](https://img.shields.io/badge/-rizkyruff-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rizkyruff/)](https://www.instagram.com/rizkyruff/) <p align='left'>Hello evryone👋. I'am Rizky Makruf 😁 I'm graduate of University of Technology Yogyakarta, minoring in Informatics Engineering, and majoring in web and mobile develop ✌ I am a graphic designer and Front End Developer, and ready to full stack developer. 😎 
+  
 <p>📍 Live in Bali temporary.
 <p>👨🏽‍💻 working in BLip Apps https://blip.net.id/
 <p>🌱 I’m currently learning designer web (front-end) and designer graphic, otw to full-stack developer.</p>
