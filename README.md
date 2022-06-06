@@ -10,7 +10,15 @@
 <p>💬 Ask me about anything</p>
 
 <!-- ## Graphic Designer and WEB Developer -->
-<p align=left> <img src=https://komarev.com/ghpvc/?username=rizkymakruf alt=rizkymakruf /> </p>
+<p align=left> 
+  <img src=https://komarev.com/ghpvc/?username=rizkymakruf alt=rizkymakruf /> 
+ <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+   <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+ </a>
+ <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
+   <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+ </a>
+</p>
 
 ## Some of my Github Stats
 [![Github stats](https://github-readme-stats.vercel.app/api?username=rizkymakruf&show_icons=true&include_all_commits=true)](https://github.com/rizkymakruf/github-readme-stats)
@@ -19,10 +27,5 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizkymakruf&repo=web-portofolio)](https://github.com/rizkymakruf/web-portofolio) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizkymakruf&repo=Fluffy-Android-Application)](https://github.com/rizkymakruf/Fluffy-Android-Application) -->
 
- <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
+
 
