@@ -6,7 +6,7 @@
 <p>🌱 I’m currently learning designer web (front-end) and designer graphic, otw to full-stack developer.</p>
 <p>💬 Ask me about anything</p>
 
-## Graphic Designer and WEB Developer
+<!-- ## Graphic Designer and WEB Developer -->
 <p align=left> <img src=https://komarev.com/ghpvc/?username=rizkymakruf alt=rizkymakruf /> </p>
 
 ## Some of my Github Stats
