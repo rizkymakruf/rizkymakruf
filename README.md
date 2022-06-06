@@ -1,7 +1,7 @@
-<p align="center">
+
 ## Hey There👋, This is Rizky Makruf 😎
 [![Gmail Badge](https://img.shields.io/badge/-armppy8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:armppy8@gmail.com)](mailto:armppy8@gmail.com) [![Github Badge](https://img.shields.io/badge/-rizkymakruf-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rizkymakruf/)](https://www.github.com/rizkymakruf/) [![Instagram Badge](https://img.shields.io/badge/-rizkyruff-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rizkyruff/)](https://www.instagram.com/rizkyruff/) 
-</p>
+
 <p align='left'>Hello evryone👋. I'am Rizky Makruf 😁 I'm graduate of University of Technology Yogyakarta, minoring in Informatics Engineering, and majoring in web and mobile develop ✌ I am a graphic designer and Front End Developer, and ready to full stack developer. 😎 
   
 <p>📍 Live in Bali temporary.
