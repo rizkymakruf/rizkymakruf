@@ -13,7 +13,7 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=rizkymakruf&show_icons=true&include_all_commits=true)](https://github.com/rizkymakruf/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymakruf&layout=compact)](https://github.com/rizkymakruf/github-readme-stats) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizkymakruf&repo=web-portofolio)](https://github.com/rizkymakruf/web-portofolio)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizkymakruf&repo=web-portofolio)](https://github.com/rizkymakruf/web-portofolio) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rizkymakruf&repo=Fluffy-Android-Application)](https://github.com/rizkymakruf/Fluffy-Android-Application) -->
 
 
