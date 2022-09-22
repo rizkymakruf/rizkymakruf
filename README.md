@@ -6,7 +6,7 @@
   
 <p>📍 Live in Bali temporary.
 <p>👨🏽‍💻 Looking a job 
-<p>🌱 I’m currently learning designer web (front-end) and designer graphic.</p>
+<p>🌱 I’m currently learning designer web (front-end NextJS) and designer graphic.</p>
 <p>💬 Ask me about anything</p>
 
 <!-- ## Graphic Designer and WEB Developer -->
