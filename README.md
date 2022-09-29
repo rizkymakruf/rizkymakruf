@@ -5,7 +5,7 @@
 <p align='left'>Hello evryone👋. I'am Rizky Makruf 😁 I'm graduate of University of Technology Yogyakarta, minoring of Informatics Engineering, and majoring of web and mobile develop ✌ I am a graphic designer and Front End Developer. 😎 
   
 <p>👨🏽‍💻 Looking a job </p>
-<p>🌱 I’m currently learning designer web (front-end Next.Js and React.Js) and designer graphic.</p>
+<p>🌱 I’m currently learning designer web (front-end Next.Js and React.Js)</p>
 <p>💬 Ask me about anything</p>
 
 <!-- ## Graphic Designer and WEB Developer -->
