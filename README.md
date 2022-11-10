@@ -13,7 +13,7 @@
 
 
 ## Some of my Github Stats
-[![Github stats](https://github-readme-stats.vercel.app/api?username=rizkymakruf&show_icons=true&include_all_commits=true)](https://github.com/rizkymakruf/github-readme-stats)
+<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=rizkymakruf&show_icons=true&include_all_commits=true)](https://github.com/rizkymakruf/github-readme-stats) -->
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkymakruf&layout=compact)](https://github.com/rizkymakruf/github-readme-stats)
 
