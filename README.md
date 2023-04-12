@@ -2,7 +2,11 @@
 ## Hey There👋
 [![Gmail Badge](https://img.shields.io/badge/-armppy8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:armppy8@gmail.com)](mailto:armppy8@gmail.com)  [![Instagram Badge](https://img.shields.io/badge/-rizkyruff-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rizkyruff/)](https://www.instagram.com/rizkyruff/) [![linkin Badge](https://img.shields.io/badge/-rizkyruff-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rizkimakruf/)](https://www.linkedin.com/in/rizkimakruf/) 
 
-<p align='left'>Hello evryone👋. I'am Rizky Makruf 😁 I'm graduate of University of Technology Yogyakarta, minoring of Informatics Engineering, and majoring of web and mobile develop ✌ I am a graphic designer and Front End Developer. 😎 
+<p align='left'>Hello, my name is Rizki Makruf, often called Makruf, I am 22 years old. I'm fresh graduated Bacholar's
+Science and Technology, majoring Informatics, and minoring with WEB and Mobile developer. I'm interested
+in technological developments, my role programming is frontend developer. And I'm currently developing my
+skills in the field of frontend developer with javascript frameworks, UI/UX design with figma, and design
+graphic with corel draw. I like to learn new things in my life, and I think it will make me grow.
   
 <p>👨🏽‍💻 Frontend Dev at PT SERU </p>
 <p>🌱 I’m currently learning design and frontend dev</p>
