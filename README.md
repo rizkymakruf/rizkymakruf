@@ -8,7 +8,7 @@ in technological developments, my role programming is frontend developer. And I'
 skills in the field of frontend developer with javascript frameworks, UI/UX design with figma, and design
 graphic with corel draw. I like to learn new things in my life, and I think it will make me grow.
   
-<p>👨🏽‍💻 Frontend Dev at PT SERU </p>
+<p>👨🏽‍💻 Software Developer (Frontend Mobile and WEB) at PT SERU </p>
 <p>🌱 I’m currently learning design and frontend dev</p>
 
 <p align=left> 
