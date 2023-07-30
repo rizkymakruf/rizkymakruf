@@ -1,5 +1,5 @@
 
-## Hey There👋
+## Hey Coders👋
 [![Gmail Badge](https://img.shields.io/badge/-armppy8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:armppy8@gmail.com)](mailto:armppy8@gmail.com)  [![Instagram Badge](https://img.shields.io/badge/-rizkyruff-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rizkyruff/)](https://www.instagram.com/rizkyruff/) [![linkin Badge](https://img.shields.io/badge/-rizkyruff-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rizkimakruf/)](https://www.linkedin.com/in/rizkimakruf/) 
 
 <p align='left'>Hello, my name is Rizki, I am 23 years old. I'm graduated on Bacholar's
