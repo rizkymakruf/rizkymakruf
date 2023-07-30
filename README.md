@@ -7,7 +7,7 @@ Science and Technology, majoring Informatics, and minoring with WEB and Mobile d
 in technological developments, i'am web and mobile frontend developer. And i usually using react js react native next js and tailwind css.
 I like to learn new things in my life, and I think it will make me grow.
   
-<p>👨🏽‍💻 Software Developer (Frontend Mobile and WEB) at PT SERU </p>
+<p>👨🏽‍💻 Currently work at PT SERU as Frontend Mobile and Web developer  </p>
 <p>🌱 I’m currently learning design and frontend dev</p>
 
 <p align=left> 
