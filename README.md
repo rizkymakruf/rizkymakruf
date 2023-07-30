@@ -2,12 +2,12 @@
 ## Hey Coders👋
 [![Gmail Badge](https://img.shields.io/badge/-armppy8@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:armppy8@gmail.com)](mailto:armppy8@gmail.com)  [![Instagram Badge](https://img.shields.io/badge/-rizkyruff-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/rizkyruff/)](https://www.instagram.com/rizkyruff/) [![linkin Badge](https://img.shields.io/badge/-rizkyruff-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rizkimakruf/)](https://www.linkedin.com/in/rizkimakruf/) 
 
-<p align='left'>Hello, my name is Rizki, I am 23 years old. I'm graduated on Bacholar's
+<p align='left'>Hello, my name is Rizki, I am 23 years old, i'am web and mobile frontend developer. I'm graduated on Bacholar's
 Science and Technology, majoring Informatics, and minoring with WEB and Mobile developer. I'm interested
-in technological developments, i'am web and mobile frontend developer. And i usually using react js react native next js and tailwind css.
+in technological developments. And i usually using ReactJs, React Native, NextJs, and tailwind css.
 
   
-<p>👨🏽‍💻 Currently work at PT SERU as Frontend Mobile and Web developer  </p>
+<p>👨🏽‍💻 Currently work at PT SERU as frontend mobile and web developer  </p>
 <p>🌱 I like to learn new things in my life, and I think it will make me grow.</p>
 
 <p align=left> 
