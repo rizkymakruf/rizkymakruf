@@ -5,10 +5,10 @@
 <p align='left'>Hello, my name is Rizki, I am 23 years old. I'm graduated on Bacholar's
 Science and Technology, majoring Informatics, and minoring with WEB and Mobile developer. I'm interested
 in technological developments, i'am web and mobile frontend developer. And i usually using react js react native next js and tailwind css.
-I like to learn new things in my life, and I think it will make me grow.
+
   
 <p>👨🏽‍💻 Currently work at PT SERU as Frontend Mobile and Web developer  </p>
-<p>🌱 I’m currently learning design and frontend dev</p>
+<p>🌱 I like to learn new things in my life, and I think it will make me grow.</p>
 
 <p align=left> 
   <img src=https://komarev.com/ghpvc/?username=rizkymakruf alt=rizkymakruf /> 
